@@ -16,4 +16,5 @@ public interface TogetherConstants
 	String Password_type = "Password";
 	String Phone_type = "phoneNumber";
 	String NULL = "NULL";
+	String AUTHOR="Punith";
 }
